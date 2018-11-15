@@ -18,8 +18,8 @@ Gelößt wurde ein Problem der echten Welt, incl. Strukturiertem Arbeiten mit fo
 5. Schreiben des Codes 
      Bundeststaaten inkl. Einwohnerzahl wurde über eine csv-Datei in ein Array mit der Klasse class import csv eingebunden.
      Array wird eingelesen und - Sieger Array initialisiert. 
-     Im nächsten schritt wird die Funktion SigerErmitteln/erfaken aufrufen. Wenn der Sieger feststeht(Republikaner oder Demokraten) wird
-     wieder die Funktion SiegerErmitteln aufrufen. 
-     Gewinnen in diesem Wahlomat die Demokraten die Wahl, greift der Putineffekt (in Form einer for-Schleife) ins Wahlgeschehen ein.
-     Ergebnis wird ausgegeben und in Textform gespeichert.
+     Im nächsten Schritt wird die Funktion SiegerErmitteln/erfaken mit dem Ergebnis 0=Demokraten oder 1=Republikaner aufgerufen. Wenn die Mehrheit feststeht(Republikaner oder Demokraten), wird
+     wieder die Funktion SiegerErmitteln aufgerufen, um zu bestimmen wieviele Staaten für 0 und wieviele für  1 gestimmt haben. 
+     Gewinnen in diesem Wahlomat die Demokraten die Wahl, greift der Putineffekt (in Form einer do-whileSchleife) ins Wahlgeschehen ein.
+     Das Ergebnis =(Rep.) wird anschließend ausgegeben und in Textform, in einer Datei, gespeichert.
 
