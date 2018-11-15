@@ -22,4 +22,4 @@ Gelößt wurde ein Problem der echten Welt, incl. Strukturiertem Arbeiten mit fo
      wieder die Funktion SiegerErmitteln aufrufen. 
      Gewinnen in diesem Wahlomat die Demokraten die Wahl, greift der Putineffekt (in Form einer for-Schleife) ins Wahlgeschehen ein.
      Ergebnis wird ausgegeben und in Textform gespeichert.
-   
+
